@@ -4,7 +4,7 @@ A clean and modern landing page for a real estate or housing website, built with
 
 ## 📸 Preview
 
-![Real Estate Landing Page Preview](/screenshot.png) 
+![Real Estate Landing Page Preview](/home.png) 
 
 ## ✨ Features
 
