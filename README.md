@@ -25,9 +25,7 @@ A clean and modern landing page for a real estate or housing website, built with
 ## 📁 Project Structure
 ```
 real-estate-landing-page/
-├── assets/
-│   ├── images/
-│   └── fonts/
+├── images/
 ├── index.html
 ├── style.css
 └── README.md
@@ -43,8 +41,7 @@ To view and edit the project locally:
    git clone https://github.com/shelavalepallavi/landing-page.git
 Open the folder:
 ```
-cd real-estate-landing-page
-```
+cd real-estate-
 
 Open index.html in your browser:
 ```
@@ -69,7 +66,5 @@ Footer: Social links and copyright
 This page is optimized for various screen sizes including smartphones, tablets, and desktops.
 
 🙋‍♂️ Author
-Your Name
+Pallavi 
 
-📜 License
-This project is licensed under the MIT License.
