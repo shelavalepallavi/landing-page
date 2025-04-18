@@ -9,10 +9,10 @@ A clean and modern landing page for a real estate or housing website, built with
 ## ✨ Features
 
 - Eye-catching hero section with background image.
-- Property showcase section with cards
-- Features or services section (e.g., Buy, Sell, Rent)
+- Property showcase section with cards.
+- Features or services section (e.g., Buy, Sell, Rent).
 - Testimonials or client reviews (optional)
-- Contact or newsletter subscription section
+- Contact or newsletter subscription section.
 - Fully responsive design for mobile and desktop
 
 ## 🛠️ Built With
