@@ -48,7 +48,7 @@ Open index.html in your browser:
 open index.html
 ```
 💡 Tip: Use Live Server in VS Code for the best development experience.
-
+```
 🖼️ Sections Included
 Header: Logo, navigation links
 
